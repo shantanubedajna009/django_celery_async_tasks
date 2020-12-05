@@ -2,6 +2,7 @@
 
 
 .DS_STORE
+db.sqlite3
 
 # Virtualenv related
 bin/
